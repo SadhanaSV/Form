@@ -1,0 +1,15 @@
+{
+  "name": "internshala",
+  "version": "1.0.0",
+  "description": "\"This website can be used to save personal informatiom'.",
+  "main": "intern.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadhana Savkare",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
